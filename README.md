@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif"/>
+</div>
+
 <!--
 **SemyonSt/SemyonSt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
