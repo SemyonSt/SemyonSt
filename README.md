@@ -8,7 +8,7 @@
 
 
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 My name's Semyon <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I am a Frontend-developer.
 
 
