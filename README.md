@@ -6,11 +6,11 @@
 </div>
 
 
-### :man_technologist: About Me :
+### About Me :
 My name's Semyon <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I am a Frontend-developer.
 
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
